@@ -1,0 +1,5 @@
+u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb
+run1: /home/hatch/workspace/makefun/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb/output1/entry.txt chars: 115 sha256: af98b7ba4af4bda5dea759cc5052c34162d19edebbf8a862c96d46540ca477d7 
+run2: /home/hatch/workspace/makefun/u-brisk-kestrel-93-one-sentence-one-front-page-0db596eb/output2/entry.txt chars: 115 sha256: af98b7ba4af4bda5dea759cc5052c34162d19edebbf8a862c96d46540ca477d7 
+sha256: af98b7ba4af4bda5dea759cc5052c34162d19edebbf8a862c96d46540ca477d7
+status: BYTE-IDENTICAL
